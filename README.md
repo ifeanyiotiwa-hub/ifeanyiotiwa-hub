@@ -7,8 +7,6 @@ I'm a Java Backend Engineer and I love solving problems with code.
 
 I enjoy discussions revolving around how tech is solving both simple and complex problems and rapidly changing the world around us.
 
-I am currently taking a deep dive into the micronaut framework and its tradeoffs with spring and spring cloud in a cloud native environment.
-
 After a long day of code I like to unwind by watching anime and reading about the latest developments in tech.
 
 ## <u>My Skill Set 🔭<u>
