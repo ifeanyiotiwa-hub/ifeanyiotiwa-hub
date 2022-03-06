@@ -30,7 +30,7 @@ After a long day of code I like to unwind by watching anime and reading about th
 <p align="left" marginTop="10px"> <img src="https://komarev.com/ghpvc/?username=ifeanyiotiwa-hub&label=Profile%20views&color=ce9927&style=flat" alt="ifeanyiotiwa-hub" /> </p>
 
 <!--
-**oselesley/oselesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ifeanyiotiwa-hub/ifeanyiotiwa-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
