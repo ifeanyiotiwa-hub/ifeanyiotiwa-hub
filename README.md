@@ -12,11 +12,8 @@ After a long day of code I like to unwind by watching anime and reading about th
 ## <u>My Skill Set 🔭<u>
   
 * Java
-* JavaScript
-* React
-* Spring Boot
-* Spring Cloud
-* Test Driven Development
+* Microservice with Spring
+* Test Driven Development With Junit and Mockito
 * Agile Methodologies
 * GIT
 
