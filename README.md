@@ -25,6 +25,13 @@ After a long day of code I like to unwind by watching anime and reading about th
 
 
 <p align="left" marginTop="10px"> <img src="https://komarev.com/ghpvc/?username=ifeanyiotiwa-hub&label=Profile%20views&color=ce9927&style=flat" alt="ifeanyiotiwa-hub" /> </p>
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ifeanyiotiwa-hub&show_icons=true&theme=tokyonight&line_height=52&count_private=true" />
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyiotiwa-hub&count_private=true&theme=tokyonight&line_height=52">
+</p>
+
+<p align="center">Ace it up! ♠ </p>
 
 <!--
 **ifeanyiotiwa-hub/ifeanyiotiwa-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
