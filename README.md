@@ -1,6 +1,6 @@
 <p align="left" marginTop="10px"> <img src="https://komarev.com/ghpvc/?username=ifeanyiotiwa-hub&label=Profile%20views&color=ce9927&style=flat" alt="ifeanyiotiwa-hub" /> </p>
 
-### Hi there 👋
+### HELLO, I am Ifeanyichukwu Otiwa 👋
 
 I'm a Java Backend Engineer and I love solving problems with code.
 
