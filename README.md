@@ -16,11 +16,12 @@ After a long day of code I like to unwind by watching anime and reading about th
 * Agile Methodologies
 * GIT
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ifeanyiotiwa-hub&show_icons=true&theme=tokyonight&line_height=52&count_private=true" />
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyiotiwa-hub&count_private=true&theme=tokyonight&line_height=52">
 </p>
-
+-->
 ## <u>Others<u>
 * 📫 How to reach me: ifeanyichukwuotiwa.winson@gmail.com
 * 😄 Pronouns: He/Him
